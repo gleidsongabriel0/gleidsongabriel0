@@ -1,4 +1,9 @@
-## Hi there 👋
+# Gleidson Gabriel
+
+**Computer Engineering Student**
+
+Undergraduate Computer Engineering student with a passion for algorithmic problem-solving and software development.
+Currently conducting academic research in AI. Also actively engaged in competitive programming and local hackathons.
 
 <!--
 **gleidsongabriel0/gleidsongabriel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
